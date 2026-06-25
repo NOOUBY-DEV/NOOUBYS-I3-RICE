@@ -1,0 +1,3 @@
+
+
+i3status picom rofi dunst kitty thunar nano duf btop
